@@ -1,6 +1,6 @@
 # PROGRAMMA PORTAFOGLIO
 
-##Language and Framework
+## Language and Framework
 
-*JAVA SPRING
-*JAVA SPRING BOOT
+* JAVA SPRING
+* JAVA SPRING BOOT
